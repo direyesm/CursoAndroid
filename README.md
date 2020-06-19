@@ -1,6 +1,6 @@
 # CursoAndroid
 
-## Readme evaluacion 2 curso android
+## Readme evaluacion
 
 
 #Clase Electrodomestico
